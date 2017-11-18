@@ -23,6 +23,8 @@ namespace WebApplication10
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc();
+            // need new feature #1 here
+            // need new feature #2 here
 
         }
 
