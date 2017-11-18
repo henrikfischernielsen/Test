@@ -24,6 +24,7 @@ namespace WebApplication10
         {
             services.AddMvc();
             // need new feature #1 here
+            // need new feature #2 here
 
         }
 
